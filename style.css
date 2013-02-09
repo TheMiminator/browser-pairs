@@ -13,8 +13,8 @@ body {
   text-align: center;
   background-image: url(http://i.imgur.com/ARyanm1.png) no-repeat bottom left fixed;
   /* background-color: #F26522;*/
-  background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;
-  color: #DA4930;
+  /*background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;
+  color: #DA4930;*/
   font-family: "Days One", sans-serif;
 }
 
