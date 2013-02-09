@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/1.png) no-repeat; background-size: contain;}
+.fx {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/2.png) no-repeat; background-size: contain;}
+.cr {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/3.png) no-repeat; background-size: contain;}
+.sf {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/4.png) no-repeat; background-size: contain;}
+.op {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/5.png) no-repeat; background-size: contain;}
+.ns {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/6.png) no-repeat; background-size: contain;}
+.tb {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/8.png) no-repeat; background-size: contain;}
+.fm {background: url(http://i1128.photobucket.com/albums/m490/GoddessOfChiptune/7.png) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
